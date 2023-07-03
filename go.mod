@@ -1,4 +1,4 @@
-module jcalahorro/gocron
+module github.com/jcalahorro/gocron
 
 go 1.20
 
